@@ -7,4 +7,4 @@ resources:
 images:
 - name: saturn203/vas
   # newTag: 0.0.1
-  newTag: 1.0.0
+  newTag: 1.0.1
